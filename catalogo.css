@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+  }
+  
+  .bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
+  
+  img { 
+    display: block;
+    margin: auto;
+    
+  }
+  .bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;    
+    font-size: 18px;
+  }
